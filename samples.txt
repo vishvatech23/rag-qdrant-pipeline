@@ -1,0 +1,3 @@
+mkdir samples
+# create a quick test file
+Set-Content -Path .\samples\sample1.txt -Value "Installation\n\nTo install the software, run the installer. Requirements: Python 3.8.\n\nUsage:\n1. Run setup\n2. Configure environment\n\nLicense\nSoftware is licensed under MIT."
